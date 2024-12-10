@@ -6,3 +6,6 @@ steps after cloning the project:
 npm install
 npm run dev
 ```
+
+Approximate time spent on the assignment:
+6-8 hours
